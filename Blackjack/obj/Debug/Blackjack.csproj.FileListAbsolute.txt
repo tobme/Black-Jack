@@ -1,0 +1,84 @@
+\\gt40\mydoc\elever\e-tmellber\documents\visual studio 2012\Projects\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+\\gt40\mydoc\elever\e-tmellber\documents\visual studio 2012\Projects\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+\\gt40\mydoc\elever\e-tmellber\documents\visual studio 2012\Projects\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+\\gt40\mydoc\elever\e-tmellber\documents\visual studio 2012\Projects\Blackjack\Blackjack\obj\Debug\Blackjack.csprojResolveAssemblyReference.cache
+\\gt40\mydoc\elever\e-tmellber\documents\visual studio 2012\Projects\Blackjack\Blackjack\obj\Debug\Blackjack.Form1.resources
+\\gt40\mydoc\elever\e-tmellber\documents\visual studio 2012\Projects\Blackjack\Blackjack\obj\Debug\Blackjack.Form2.resources
+\\gt40\mydoc\elever\e-tmellber\documents\visual studio 2012\Projects\Blackjack\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+\\gt40\mydoc\elever\e-tmellber\documents\visual studio 2012\Projects\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.Cache
+\\gt40\mydoc\elever\e-tmellber\documents\visual studio 2012\Projects\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+\\gt40\mydoc\elever\e-tmellber\documents\visual studio 2012\Projects\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
+E:\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+E:\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+E:\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
+E:\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+E:\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+E:\Blackjack\Blackjack\obj\Debug\Blackjack.csprojResolveAssemblyReference.cache
+E:\Blackjack\Blackjack\obj\Debug\Blackjack.Form1.resources
+E:\Blackjack\Blackjack\obj\Debug\Blackjack.Form2.resources
+E:\Blackjack\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+E:\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.Cache
+E:\Blackjack - Klasser\Blackjack\bin\Debug\Blackjack.exe.config
+E:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.exe
+E:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.pdb
+E:\Blackjack - Klasser\Blackjack\bin\Debug\Blackjack.exe
+E:\Blackjack - Klasser\Blackjack\bin\Debug\Blackjack.pdb
+E:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.csprojResolveAssemblyReference.cache
+E:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.Form1.resources
+E:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.Form2.resources
+E:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+E:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.Cache
+J:\Blackjack - Klasser\Blackjack\bin\Debug\Blackjack.exe.config
+J:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.exe
+J:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.pdb
+J:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.csprojResolveAssemblyReference.cache
+I:\Blackjack - Klasser\Blackjack\bin\Debug\Blackjack.exe.config
+I:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.exe
+I:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.pdb
+I:\Blackjack - Klasser\Blackjack\bin\Debug\Blackjack.exe
+I:\Blackjack - Klasser\Blackjack\bin\Debug\Blackjack.pdb
+I:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.csprojResolveAssemblyReference.cache
+I:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.Form2.resources
+I:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.Form1.resources
+I:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+I:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.Cache
+H:\Blackjack - Klasser\Blackjack\bin\Debug\Blackjack.exe.config
+H:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.exe
+H:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.pdb
+H:\Blackjack - Klasser\Blackjack\bin\Debug\Blackjack.exe
+H:\Blackjack - Klasser\Blackjack\bin\Debug\Blackjack.pdb
+H:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.csprojResolveAssemblyReference.cache
+H:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.Form2.resources
+H:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.Form1.resources
+H:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+H:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.Cache
+F:\Blackjack - Klasser\Blackjack\bin\Debug\Blackjack.exe.config
+F:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.exe
+F:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.pdb
+F:\Blackjack - Klasser\Blackjack\bin\Debug\Blackjack.exe
+F:\Blackjack - Klasser\Blackjack\bin\Debug\Blackjack.pdb
+F:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.csprojResolveAssemblyReference.cache
+F:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.Form2.resources
+F:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.Form1.resources
+F:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+F:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.Cache
+K:\Blackjack - Klasser\Blackjack\bin\Debug\Blackjack.exe.config
+K:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.exe
+K:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.pdb
+K:\Blackjack - Klasser\Blackjack\bin\Debug\Blackjack.exe
+K:\Blackjack - Klasser\Blackjack\bin\Debug\Blackjack.pdb
+K:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.csprojResolveAssemblyReference.cache
+K:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.Form2.resources
+K:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.Form1.resources
+K:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+K:\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.Cache
+C:\Users\Tobbe\Desktop\Blackjack - Klasser\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\Tobbe\Desktop\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\Tobbe\Desktop\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.pdb
+C:\Users\Tobbe\Desktop\Blackjack - Klasser\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\Tobbe\Desktop\Blackjack - Klasser\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\Tobbe\Desktop\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.csprojResolveAssemblyReference.cache
+C:\Users\Tobbe\Desktop\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.Form2.resources
+C:\Users\Tobbe\Desktop\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.Form1.resources
+C:\Users\Tobbe\Desktop\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+C:\Users\Tobbe\Desktop\Blackjack - Klasser\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.Cache
