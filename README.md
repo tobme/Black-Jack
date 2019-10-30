@@ -13,7 +13,7 @@
 
 Want to practise your black jack skills to win lots of money at casinos?\
 This game let you play one on one with the bank and try out all the different strategies.\
-![](bj.gif)
+![](Film/bj.gif)
 
 ## Rules
 
